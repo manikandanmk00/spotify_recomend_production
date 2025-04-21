@@ -1,0 +1,14 @@
+numpy 
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+mlflow
+dvc
+wordcloud
+joblib
+streamlit
+ipykernel
+fastapi
+uvicorn
