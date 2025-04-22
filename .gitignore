@@ -1,1 +1,35 @@
-venv\
+venv\# Python bytecode
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment
+.venv/
+env/
+venv/
+
+# MLflow logs
+mlruns/
+mlruns.db
+mlruns.log
+
+# Models and artifacts
+models/
+*.pkl
+
+# Jupyter
+*.ipynb
+
+# OS files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Cache
+*.cache
+*.temp
